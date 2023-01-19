@@ -20,9 +20,9 @@
 </p>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="center">Skills</h2>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<h2 >Skills</h2>
+<br><br>
 
 <span align="center">
 
@@ -50,9 +50,9 @@
 </span>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="center">Top Projects</h2>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<h2>Top Projects</h2>
+<br><br>
 
 <a href="https://github.com/satyampund/satyam-portfolio">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -60,10 +60,10 @@
 </a>
 
 <br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">📶---GitHub Stats---📶</h2>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<h2 >GitHub Stats</h2>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=satyampund" alt="satyampund" /> </p>
 
