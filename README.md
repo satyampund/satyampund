@@ -21,7 +21,7 @@
 
 <br>
 
-<h2 >Skills</h2>
+<h2>Skills</h2>
 <br><br>
 
 <span align="center">
@@ -62,7 +62,7 @@
 <br><br>
 
 
-<h2 >GitHub Stats</h2>
+<h2>GitHub Stats</h2>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=satyampund" alt="satyampund" /> </p>
