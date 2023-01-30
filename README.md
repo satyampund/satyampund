@@ -21,7 +21,7 @@
 
 <br>
 
-<h2 align="center">Skills</h2>
+<h2 align="center">My Skills</h2>
 <br><br>
 
 <span align="center">
