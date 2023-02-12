@@ -51,7 +51,7 @@
 
 <br>
 
-<h2>My Top Projects</h2>
+<h2>Top Projects</h2>
 <br><br>
 
 <a href="https://github.com/satyampund/satyam-portfolio">
