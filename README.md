@@ -21,7 +21,7 @@
 
 <br>
 
-<h2 align="center">My Skills</h2>
+<h2 align="center">Skills</h2>
 <br><br>
 
 <span align="center">
@@ -51,7 +51,7 @@
 
 <br>
 
-<h2>Top Projects</h2>
+<h2>Projects</h2>
 <br><br>
 
 <a href="https://github.com/satyampund/satyam-portfolio">
